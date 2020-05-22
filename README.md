@@ -1,2 +1,2 @@
 # tinyscripts_bash
-various tiny standalone script snippets in PERL
+various tiny standalone script snippets in Bash
