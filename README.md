@@ -1,2 +1,3 @@
-# tinyscripts_bash
-various tiny standalone script snippets in Bash
+# win10ng-fu
+
+Things I learned to adapt under Windows (i.e., work) environment to keep working as efficiently as humanly possible.
